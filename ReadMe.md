@@ -18,14 +18,13 @@
 1. 구현 & 브루트포스 (0/30)
 
 2. 그래프 탐색 (1/30)
-- [`백준1175` 배달](https://www.acmicpc.net/problem/1175) (11.30)
+- ⭕ [`백준1175` 배달](https://www.acmicpc.net/problem/1175) (11.30)
 
 3. 다익스트라 (0/15)
-
+- ✅️ [`백준12938` 서강그라운드](https://www.acmicpc.net/problem/14938) (12.06)
 
 4. 그리디 (1/10)
-- [`백준 1339` 단어 수학](https://www.acmicpc.net/problem/1339) (11.28)
-
+- ⭕ [`백준 1339` 단어 수학](https://www.acmicpc.net/problem/1339) (11.28)
 
 5. 투포인터 (0/10)
 

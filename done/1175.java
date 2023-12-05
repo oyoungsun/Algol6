@@ -14,6 +14,8 @@ class Main {
         //# : 못감
         //. : 갈수있음
         //1번 이동 마다 방향을 바꾼다.
+
+        //수정 -> visit에 이동 횟수가 아닌 C 발견수로 4차원배열 구성하기
         Scanner sc = new Scanner(System.in);
         n = sc.nextInt();
         m = sc.nextInt();
