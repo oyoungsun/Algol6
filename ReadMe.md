@@ -19,6 +19,7 @@
 
 2. 그래프 탐색 (1/30)
 - ⭕ [`백준1175` 배달](https://www.acmicpc.net/problem/1175) (11.30)
+- 재도전 필요[`백준9019` DSLR] https://www.acmicpc.net/problem/9019 (12.08)
 
 3. 다익스트라 (0/15)
 - ✅️ [`백준12938` 서강그라운드](https://www.acmicpc.net/problem/14938) (12.06)
