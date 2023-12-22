@@ -31,3 +31,7 @@
 
 
 6. 문자열 파싱 구현 (0/5)
+
+### 랜덤 디펜스
+❌ [`백준14464` 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464)
+[`백준 4256` 트리](https://www.acmicpc.net/problem/4256)
