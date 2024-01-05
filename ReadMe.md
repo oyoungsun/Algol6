@@ -16,7 +16,8 @@
 
 ## 집중해서 풀 알고리즘
 1. 구현 & 브루트포스 (0/30)
-
+- [`프로그래머스150370` 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) (01.05)
+- [`프로그래머스118666` 성격유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) (01.05)
 2. 그래프 탐색 (1/30)
 - ⭕ [`백준1175` 배달](https://www.acmicpc.net/problem/1175) (11.30)
 - 재도전 필요[`백준9019` DSLR] https://www.acmicpc.net/problem/9019 (12.08)
