@@ -15,20 +15,21 @@
 - 백준 Gold 1 1482 -> 1550
 
 ## 집중해서 풀 알고리즘
-1. 구현 & 브루트포스 (0/30)
+1. 구현 & 브루트포스 (2/30)
 - [`프로그래머스150370` 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) (01.05)
 - [`프로그래머스118666` 성격유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) (01.05)
-2. 그래프 탐색 (1/30)
+2. 그래프 탐색 (2/30)
 - ⭕ [`백준1175` 배달](https://www.acmicpc.net/problem/1175) (11.30)
 - 재도전 필요[`백준9019` DSLR] https://www.acmicpc.net/problem/9019 (12.08)
 
-3. 다익스트라 (0/15)
+3. 다익스트라 (1/15)
 - ✅️ [`백준12938` 서강그라운드](https://www.acmicpc.net/problem/14938) (12.06)
 
 4. 그리디 (1/10)
 - ⭕ [`백준 1339` 단어 수학](https://www.acmicpc.net/problem/1339) (11.28)
 
-5. 투포인터 (0/10)
+5. 투포인터 (1/10)
+- [`프로그래머스118667` 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) (01.05)
 
 
 6. 문자열 파싱 구현 (0/5)
