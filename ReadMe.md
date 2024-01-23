@@ -38,3 +38,4 @@
 ❌ [`백준14464` 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464)
 ❌⭕[`백준 4256` 트리](https://www.acmicpc.net/problem/4256) (2번 품)
 ⭕ [`백준 23740` 버스 노선 개편하기](https://www.acmicpc.net/problem/23740)
+⭕ [`프로그래머스42888` 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
