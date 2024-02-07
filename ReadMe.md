@@ -36,6 +36,7 @@
 
 - 그외
 DP - 9251, 2293
+SQL - https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit
 ### 랜덤 디펜스
 ❌ [`백준14464` 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464)
 ❌⭕[`백준 4256` 트리](https://www.acmicpc.net/problem/4256) (2번 품)
