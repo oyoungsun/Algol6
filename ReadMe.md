@@ -24,9 +24,9 @@
 - 재도전 필요[`백준9019` DSLR] https://www.acmicpc.net/problem/9019 (12.08)
 - ⭕ [`백준2150` Strongly Connected Component](https://www.acmicpc.net/problem/2150) (02.11)
 
-3. 다익스트라 (1/15)
+3. 다익스트라, MST (1/15)
 - ✅️ [`백준12938` 서강그라운드](https://www.acmicpc.net/problem/14938) (12.06)
-
+- ✅️ [`백준1647` 도시 분할 계획](https://www.acmicpc.net/problem/1647) (02.11)
 4. 그리디 (1/10)
 - ⭕ [`백준 1339` 단어 수학](https://www.acmicpc.net/problem/1339) (11.28)
 
