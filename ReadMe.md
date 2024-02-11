@@ -22,6 +22,7 @@
 - ⭕ [`백준1175` 배달](https://www.acmicpc.net/problem/1175) (11.30)
 - ✅️ [`프로그래머스43165` 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165) (02.10)
 - 재도전 필요[`백준9019` DSLR] https://www.acmicpc.net/problem/9019 (12.08)
+- ⭕ [`백준2150` Strongly Connected Component](https://www.acmicpc.net/problem/2150) (02.11)
 
 3. 다익스트라 (1/15)
 - ✅️ [`백준12938` 서강그라운드](https://www.acmicpc.net/problem/14938) (12.06)
