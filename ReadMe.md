@@ -32,7 +32,7 @@
 - ⭕ [`백준 1339` 단어 수학](https://www.acmicpc.net/problem/1339) (11.28)
 - ❌⭕[`백준14939` 불 끄기/비트마스킹, 그리디](https://www.acmicpc.net/problem/14939)
 
-5. 투포인터 (1/10)
+5. 투포인터, 비트마스킹 (1/10)
 -✅️  [`프로그래머스118667` 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) (01.05)
 
 
@@ -43,9 +43,9 @@ DP - 9251, 2293
 SQL고득점키트 - https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit
 - 알고리즘 고득점 키트
 ### 랜덤 디펜스
-❌ [`백준14464` 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464)
-❌⭕[`백준 4256` 트리](https://www.acmicpc.net/problem/4256) (2번 품)
-⭕ [`백준 23740` 버스 노선 개편하기](https://www.acmicpc.net/problem/23740)
-⭕ [`프로그래머스42888` 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)
-⭕ [`프로그래머스43238` 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)
-⭕[`백준11404` 플로이드](https://www.acmicpc.net/problem/11404)
+❌ [`백준14464` 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464)\
+❌⭕[`백준 4256` 트리](https://www.acmicpc.net/problem/4256) (2번 품)\
+⭕ [`백준 23740` 버스 노선 개편하기](https://www.acmicpc.net/problem/23740)\
+⭕ [`프로그래머스42888` 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)\
+⭕ [`프로그래머스43238` 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)\
+❌ [`백준11404` 플로이드](https://www.acmicpc.net/problem/11404)\
