@@ -32,8 +32,9 @@
 - ⭕ [`백준 1339` 단어 수학](https://www.acmicpc.net/problem/1339) (11.28)
 
 5. 투포인터, 비트마스킹 (1/10)
--✅️  [`프로그래머스118667` 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) (01.05)
+-✅️ [`프로그래머스118667` 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) (01.05)
 - ❌⭕[`백준14939` 불 끄기/비트마스킹, 그리디](https://www.acmicpc.net/problem/14939)
+- ⭕[`백준15661` 링크와 스타트](https://www.acmicpc.net/problem/15661)
 
 
 6. 문자열 파싱 구현 (0/5)
@@ -49,3 +50,4 @@ SQL고득점키트 - https://school.programmers.co.kr/learn/challenges?tab=sql_p
 ⭕ [`프로그래머스42888` 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)\
 ⭕ [`프로그래머스43238` 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)\
 ❌ [`백준11404` 플로이드](https://www.acmicpc.net/problem/11404)\
+[`백준10423` 전기가 부족해](https://www.acmicpc.net/problem/10423)
