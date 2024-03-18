@@ -52,4 +52,5 @@ SQL고득점키트 - https://school.programmers.co.kr/learn/challenges?tab=sql_p
 ⭕ [`프로그래머스43238` 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)\
 ❌ [`백준11404` 플로이드](https://www.acmicpc.net/problem/11404)\
 ✅️ [`백준10423` 전기가 부족해](https://www.acmicpc.net/problem/10423)\
-⭕ [`프로그래머스 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)
+⭕ [`프로그래머스 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)\
+⭕ [`백준2252` 줄 세우기/위상정렬](https://www.acmicpc.net/problem/2252)
