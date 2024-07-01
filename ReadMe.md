@@ -33,17 +33,21 @@
 - ⭕ [`백준 1339` 단어 수학](https://www.acmicpc.net/problem/1339) (23/11.28)
 
 5. 투포인터, 비트마스킹 (1/10)
--✅️ [`프로그래머스118667` 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) (01.05)
+- ✅️ [`프로그래머스118667` 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) (01.05)
 - ❌⭕[`백준14939` 불 끄기/비트마스킹, 그리디](https://www.acmicpc.net/problem/14939)
 - ⭕[`백준15661` 링크와 스타트](https://www.acmicpc.net/problem/15661)
+- ❌[`백준13144` List of Unique Numbers](https://www.acmicpc.net/problem/13144)
 
 
 6. 문자열 파싱 구현 (0/5)
 
-- 그외
-DP - 9251, 2293
-SQL고득점키트 - https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit
-- 알고리즘 고득점 키트
+7. 그외
+- DP - 9251, 2293
+- SQL고득점키트 마스터 - https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit
+- python 연습 마스터 - [IT기업 및 대기업 계열사 코테보면서 비슷했던 문제] (https://www.acmicpc.net/workbook/view/8708)
+  - 기간 : 3.20 ~ 5.30
+  - 진행도 (34/83)
+
 ### 랜덤 디펜스
 ❌ [`백준14464` 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464)\
 ❌⭕[`백준 4256` 트리](https://www.acmicpc.net/problem/4256) (2번 품)\
