@@ -38,6 +38,9 @@
 - ⭕[`백준15661` 링크와 스타트](https://www.acmicpc.net/problem/15661)
 - ❌[`백준13144` List of Unique Numbers](https://www.acmicpc.net/problem/13144)
 
+6. 유니온 파인드(1/10)
+- ❌[`백준1976` 여행가자](https://www.acmicpc.net/problem/1976)
+
 
 6. 문자열 파싱 구현 (0/5)
 
