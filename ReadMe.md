@@ -41,15 +41,14 @@
 6. 유니온 파인드(1/10)
 - ❌[`백준1976` 여행가자](https://www.acmicpc.net/problem/1976)
 
-
-6. 문자열 파싱 구현 (0/5)
+7. 문자열 파싱 구현 (0/5)
 
 7. 그외
-- DP - 9251, 2293
+- DP - 9251, 2293, 2631
 - SQL고득점키트 마스터 - https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit
 - python 연습 마스터 - [IT기업 및 대기업 계열사 코테보면서 비슷했던 문제] (https://www.acmicpc.net/workbook/view/8708)
   - 기간 : 3.20 ~ 5.30
-  - 진행도 (34/83)
+  - 진행도 (57/83)F
 
 ### 랜덤 디펜스
 ❌ [`백준14464` 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464)\
@@ -60,4 +59,6 @@
 ❌ [`백준11404` 플로이드](https://www.acmicpc.net/problem/11404)\
 ✅️ [`백준10423` 전기가 부족해](https://www.acmicpc.net/problem/10423)\
 ⭕ [`프로그래머스 도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)\
-⭕ [`백준2252` 줄 세우기/위상정렬](https://www.acmicpc.net/problem/2252)
+⭕ [`백준2252` 줄 세우기/위상정렬](https://www.acmicpc.net/problem/2252)\
+⭕ [`백준2631` 줄 세우기/LIS, DP](https://www.acmicpc.net/problem/2631)\
+⭕ [`백준2179` 비슷한 단어/정렬](https://www.acmicpc.net/problem/2179)\
