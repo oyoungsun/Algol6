@@ -50,7 +50,8 @@
 - python 연습 마스터 - [IT기업 및 대기업 계열사 코테보면서 비슷했던 문제] (https://www.acmicpc.net/workbook/view/8708)
   - 기간 : 3.20 ~ 5.30
   - 진행도 (57/83)F
-
+- 손풀기 
+  - N과 M all 시리즈(30분 안에) 
 ### 랜덤 디펜스
 ❌ [`백준14464` 소가 길을 건너간 이유 4](https://www.acmicpc.net/problem/14464)\
 ❌⭕[`백준 4256` 트리](https://www.acmicpc.net/problem/4256) (2번 품)\
@@ -63,3 +64,4 @@
 ⭕ [`백준2252` 줄 세우기/위상정렬](https://www.acmicpc.net/problem/2252)\
 ⭕ [`백준2631` 줄 세우기/LIS, DP](https://www.acmicpc.net/problem/2631)\
 ⭕ [`백준2179` 비슷한 단어/정렬](https://www.acmicpc.net/problem/2179)\
+
