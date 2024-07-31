@@ -31,6 +31,7 @@
 - ✅️ [`백준1647` 도시 분할 계획](https://www.acmicpc.net/problem/1647) (02.11)
 4. 그리디 (2/10)
 - ⭕ [`백준 1339` 단어 수학](https://www.acmicpc.net/problem/1339) (23/11.28)
+- ✅️ [`백준 19941` 햄버거 분배](https://www.acmicpc.net/problem/19941)
 
 5. 투포인터, 비트마스킹 (1/10)
 - ✅️ [`프로그래머스118667` 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) (01.05)
